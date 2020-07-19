@@ -1,7 +1,7 @@
-a1 = input('Enter a1 value: ')
-a2 = input('Enter a2 value: ')
-if a1 > a2
-    error('a1 value must be smaller than a2 value (a1 < a2)') 
+t1 = input('Enter t1 value: ')
+t2 = input('Enter t2 value: ')
+if t1 > t2
+    error('t1 value must be smaller than t2 value (t1 < t2)') 
 else
-    threshold(a1,a2);
+    threshold(t1,t2);
 end
