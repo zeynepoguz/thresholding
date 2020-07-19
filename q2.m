@@ -1,3 +1,3 @@
-a1 = input('a1 degerini giriniz: ')
-a2 = input('a2 degerini giriniz: ')
+a1 = input('Enter a1 value: ')
+a2 = input('Enter a2 value: ')
 threshold2(a1,a2);
